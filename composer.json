@@ -1,0 +1,12 @@
+{
+    "name": "paliarush/magento2-second-basic-module",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Paliarush\\Magento2SecondBasicModule\\": ""
+        }
+    }
+}
